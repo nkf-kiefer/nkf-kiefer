@@ -12,7 +12,7 @@ Atualmente moro em Belo Horizonte e estou embarcando na programação após uma 
 Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobby favorito: jogar videogame** 🎮!  
 
 <p align="center">
-  <img src="LINK_DIRETO_DO_GIF" alt="Descrição do GIF" width="300">
+  <img src="https://github.com/nkf-kiefer/nkf-kiefer/blob/main/testegif.gif?raw=true" alt="Descrição do GIF" width="600">
 </p>
 
 
