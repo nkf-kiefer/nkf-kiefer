@@ -3,6 +3,30 @@
   <img src="https://github.com/user-attachments/assets/4309dbec-86cc-486c-866d-9320536a17a7" alt="Texto alternativo" width="200" height="150"/>  
 </p>
 
+```python
+natália = {
+    "name": "Natália",
+    "profession": "Estudante de Sistemas de Informação",
+    "location": "Belo Horizonte, Brasil",
+    "hobbies": [
+        "Musculação",
+        "Ouvir música 🎶",
+        "Jogar videogames 🎮"
+    ],
+    "interests": {
+        "programming_languages": ["Python"],
+        "technologies": ["Django", "PostgreSQL", "Mysql"],
+        "areas_of_focus": [
+            "Inteligência Artificial 🤖",
+            "Ciência de Dados 📊",
+            "Automação 🔧"
+        ]
+    }
+}
+
+````
+
+
 ---
 
 ## 👩‍💻 Quem sou eu?  
@@ -58,10 +82,10 @@ Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobb
 
 ## 📫 Como entrar em contato comigo  
 <div align="center">  
-  <a href="https://instagram.com/seu-usuario-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.twitch.tv/seu-usuario-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
-  <a href="mailto:contato@seu-usuario-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://instagram.com/natalia_kieferf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href="https://www.twitch.tv/natalia_kf" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+  <a href="mailto:contato@nataliakiefer00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/natália-kiefer-0ab9a4286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>  
 
 ---
