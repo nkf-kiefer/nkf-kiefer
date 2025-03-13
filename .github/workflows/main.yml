@@ -6,15 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Baixe o repositório do usuário
-      - uses: actions/checkout@v3
+      # Baixe o repositório
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      # Gera o gráfico da cobra
+      # Gera a animação da cobra
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: nkf-kiefer
+
+      # Faz o push para o branch "output"
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .github/snake
