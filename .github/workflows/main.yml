@@ -10,19 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Baixa um repositório de exemplo
-      - uses: actions/checkout@v2
+      # Baixe o repositório do usuário
+      - uses: actions/checkout@v3
 
       # Gera o gráfico da cobra
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: nkf-kiefer
-          outputs: dist/snake.svg
-
-      # Carrega o gráfico gerado no repositório como artefato
-      - name: Push Snake Animation to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
