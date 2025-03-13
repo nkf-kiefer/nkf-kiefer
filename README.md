@@ -1,43 +1,70 @@
-## Olá Pessoas ! Sejam Bem-vindos ao meu perfil do git hub! <img src="[octocat-1741898527516](https://github.com/user-attachments/assets/4309dbec-86cc-486c-866d-9320536a17a7)" alt="Texto alternativo" width="200" height="150" style="display: block; margin: auto;">
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Quem sou eu?
+# 🎉 Olá, Pessoas! Bem-vindos ao meu perfil do GitHub! 👋  
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/4309dbec-86cc-486c-866d-9320536a17a7" alt="Texto alternativo" width="200" height="150"/>  
+</p>
 
-Bom primeiramente me chamo Natália e sou estudante de TI no curso de sistemas de informação pela PUC-MINAS virtual. Moro em belo horizonte e estou me aventurando na area de programação ápos ter atuado na area de suporte de TI. Sou uma pessoa que gosta de praticar musculação, escutar músicas e o meu hobby favorito é jogar video-game
+---
 
-<div class="tenor-gif-embed" data-postid="5674385715536437650" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dog-game-king-of-fighters-rage-dog-rage-gif-5674385715536437650">Dog Game GIF</a>from <a href="https://tenor.com/search/dog-gifs">Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## 👩‍💻 Quem sou eu?  
+Olá! Eu sou a **Natália**, estudante de **Sistemas de Informação** na **PUC-MINAS Virtual** 📚.  
+Atualmente moro em Belo Horizonte e estou embarcando na programação após uma jornada na área de suporte de TI.  
 
-Meus interesses:
+Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobby favorito: jogar videogame** 🎮!  
 
--Me aprofundar no mundo infinito da programação porém com o foco na linguagem python e em suas varias vertentes de atuação (inteligencia artificial, ciencia de dados, automação entre outras)
--Conseguir ajudar mais pessoas que assim como eu estão nessa área de programação sendo essa ajuda feita através de repositorios contendo exercicios para praticar algo que eu estou aprendendo no momento a fim de me ajudar e além disso ajudar outras pessoas que também estão aprendendo aquele tópico
--Conseguir cumprir uma promessa feita com minha melhor amiga que já não está mais comigo sobre se tornar uma programadora
+<p align="center">  
+  <img src="https://media.tenor.com/5674385715536437650.gif" width="300" alt="Dog Game GIF"/>  
+</p>  
 
-O que estou aprendendo 
+---
 
-## Estou aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+## 🌟 **Meus Interesses**  
 
-#Conteudo do meu repósitorio
+- 🌱 **Explorar o universo da programação:**  
+  Adoro estudar e me aprofundar em **Python**, explorando áreas fascinantes como:  
+  - 🧠 **Inteligência Artificial** 
+  - 📊 **Ciência de Dados**
+  - 🤖 **Automação**
 
-<div>
-<a href="https://github.com/nkf-kiefer">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- 🤝 **Compartilhar conhecimento e ajudar outras pessoas:**  
+  Quero inspirar e apoiar quem está começando na programação, criando repositórios com exercícios práticos e projetos colaborativos.
 
-![Snake animation](https://github.com/nkf-kiefer/nkf-kiefer/blob/output/github-contribution-grid-snake.svg)
-<!--
-**nkf-kiefer/nkf-kiefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ **Cumprir um objetivo especial:**  
+  Dedico minha jornada na programação à realização de uma promessa feita para minha melhor amiga de me tornar uma programadora incrível.Infelizmente não conseguimos realizar o nosso sonho juntas porém entro nessa jornada afim de cumprir a nossa promessa.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 O que estou aprendendo  
+<p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>  
+  
+</p>  
+
+
+---
+
+## 📂 Conteúdo do meu repositório  
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkf-kiefer&layout=compact&langs_count=7&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nkf-kiefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+</div>  
+
+---
+
+## 📫 Como entrar em contato comigo  
+<div align="center">  
+  <a href="https://instagram.com/seu-usuario-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href="https://www.twitch.tv/seu-usuario-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+  <a href="mailto:contato@seu-usuario-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>  
+
+---
+
+<p align="center">  
+  <img src="https://github.com/nkf-kiefer/nkf-kiefer/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">  
+</p>
