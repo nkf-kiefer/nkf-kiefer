@@ -15,7 +15,7 @@ natália = {
     ],
     "interests": {
         "programming_languages": ["Python"],
-        "technologies": ["Django", "PostgreSQL", "Mysql"],
+        "technologies": ["Django", "PostgreSQL", "Mysql","AWS"],
         "areas_of_focus": [
             "Inteligência Artificial 🤖",
             "Ciência de Dados 📊",
@@ -66,9 +66,29 @@ Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobb
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="Amazon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original-wordmark.svg" width="50" height="50" alt="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-line-wordmark.svg" width="50" height="50" alt="Django Rest"/>
+
+
+
   
 </p>  
 
+
+## 🧠 O que tenho conhecimento  
+<p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas"/>
+
+
+  
+</p>  
 
 ---
 
