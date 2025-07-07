@@ -1,7 +1,9 @@
-# 🎉 Olá, Pessoas! Bem-vindos ao meu perfil do GitHub! 👋  
-<p align="center">  
-  <img src="https://github.com/user-attachments/assets/4309dbec-86cc-486c-866d-9320536a17a7" alt="Texto alternativo" width="200" height="150"/>  
+## Bem vindos ao meu Repósitorio do Git Hub!! 
+ 
+<p align="center">
+  <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" alt="GIF Matrix cinematography" width="600" height="250" />
 </p>
+
 
 ```python
 natália = {
@@ -36,8 +38,10 @@ Atualmente moro em Belo Horizonte e estou embarcando na programação após uma 
 Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobby favorito: jogar videogame** 🎮!  
 
 <p align="center">
-  <img src="https://github.com/nkf-kiefer/nkf-kiefer/blob/main/testegif.gif?raw=true" alt="Descrição do GIF" width="600">
+  <img src="https://media.giphy.com/media/t5upbzp8awDW1IpCXy/giphy.gif" alt="The Last of Us - PlayStation" width="600" height="400" />
+
 </p>
+
 
 
 ---
@@ -112,6 +116,3 @@ Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobb
 
 ---
 
-<p align="center">  
-  <img src="https://github.com/nkf-kiefer/nkf-kiefer/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">  
-</p>
