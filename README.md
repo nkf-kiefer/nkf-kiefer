@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Natália — Tech Student from Brazil</h1>
+<h1 align="center"> Hi 👋 i'm Natália | Information Systems Student | Tech Enthusiast 👩‍💻</h1>
  
 <p align="center">
   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" alt="GIF Matrix cinematography" width="600" height="250" />
@@ -12,16 +12,18 @@ natália = {
     "location": "Belo Horizonte, Brasil",
     "hobbies": [
         "Musculação",
-        "Ouvir música 🎶",
-        "Jogar videogames 🎮"
+        "Ouvir música",
+        "Jogar videogames",
+        "Cubo mágico",
     ],
     "interests": {
         "programming_languages": ["Python"],
-        "technologies": ["Django", "PostgreSQL", "Mysql","AWS"],
+        "technologies": ["Django", "PostgreSQL","AWS","docker","n8n"],
         "areas_of_focus": [
-            "Inteligência Artificial 🤖",
-            "Ciência de Dados 📊",
-            "Automação 🔧"
+            "desenvolvimento web",
+            "Inteligência Artificial",
+            "Ciência de Dados",
+            "Automação"
         ]
     }
 }
@@ -31,11 +33,16 @@ natália = {
 
 ---
 
-## 👩‍💻 Quem sou eu?  
-Olá! Eu sou a **Natália**, estudante de **Sistemas de Informação** na **PUC-MINAS Virtual** 📚.  
-Atualmente moro em Belo Horizonte e estou embarcando na programação após uma jornada na área de suporte de TI.  
+## Quem sou eu?
 
-Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobby favorito: jogar videogame** 🎮!  
+Olá! Meu nome é **Natália**, tenho **20 anos** e sou estudante de **Sistemas de Informação** pela **PUC Minas Virtual**.
+
+Sou mineira, nascida e criada em Minas Gerais, e iniciei meus estudos na área da tecnologia aos 18 anos. Atuo na área de **suporte de TI**, mas sempre tive grande interesse por **programação** e **desenvolvimento de software**. Por isso, tenho me dedicado cada vez mais para migrar de vez para essa área, buscando oportunidades de **estágio** que contribuam para meu crescimento profissional e aprofundamento técnico.
+
+Além da tecnologia, também estou me preparando para obter uma certificação em **inglês**, com o objetivo de ampliar minhas possibilidades na área e facilitar o acesso a conteúdos e projetos internacionais. Tenho o sonho de me tornar **desenvolvedora de software**, seja no Brasil ou — quem sabe — nos **Estados Unidos**, onde pretendo realizar um grande sonho pessoal e profissional.
+
+Fora do mundo da tecnologia, sou apaixonada por **musculação**, **música** e, claro, pelo meu hobby favorito: **jogar videogame** 🎮!
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/t5upbzp8awDW1IpCXy/giphy.gif" alt="The Last of Us - PlayStation" width="600" height="400" />
@@ -47,19 +54,17 @@ Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobb
 ---
 
 
-## 🌟 **Meus Interesses**  
+## **Meus Interesses**  
 
-- 🌱 **Explorar o universo da programação:**  
-  Adoro estudar e me aprofundar em **Python**, explorando áreas fascinantes como:  
+- **Explorar o universo da programação:**  
+  Gosto de estudar e me aprofundar em tecnologias como **Python** o que me permite explorar áreas como:  
+
   - 🧠 **Inteligência Artificial** 
   - 📊 **Ciência de Dados**
   - 🤖 **Automação**
 
-- 🤝 **Compartilhar conhecimento e ajudar outras pessoas:**  
-  Quero inspirar e apoiar quem está começando na programação, criando repositórios com exercícios práticos e projetos colaborativos.
-
-- ✨ **Cumprir um objetivo especial:**  
-  Dedico minha jornada na programação à realização de uma promessa feita para minha melhor amiga de me tornar uma programadora incrível.Infelizmente não conseguimos realizar o nosso sonho juntas porém entro nessa jornada afim de cumprir a nossa promessa.  
+- **Cumprir um objetivo especial e pessoal:**  
+  Dedico minha jornada na programação à realização de uma promessa feita para minha melhor amiga de me tornar uma programadora incrível. Infelizmente não conseguimos realizar o nosso sonho juntas porém entro nessa jornada afim de cumprir a nossa promessa.  
 
 ---
 
@@ -109,7 +114,7 @@ Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobb
 
 
 
-## 🧠 O que tenho conhecimento  
+## 🧠 O que tenho conhecimento e estou me aprimorando
 <p>  
 
 <div align="left">
@@ -152,6 +157,14 @@ Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobb
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nkf-kiefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
 </div>  
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkf-kiefer/nkf-kiefer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkf-kiefer/nkf-kiefer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nkf-kiefer/nkf-kiefer/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 ## 📫 Como entrar em contato comigo  
@@ -162,14 +175,4 @@ Além da tecnologia, amo **musculação**, **música** 🎶 e, claro, meu **hobb
   <a href="https://www.linkedin.com/in/natália-kiefer-0ab9a4286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>  
 
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkf-kiefer/nkf-kiefer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkf-kiefer/nkf-kiefer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nkf-kiefer/nkf-kiefer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
